@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sarvesh-pingale-8b9090299">LinkedIn</a> · <a href="https://github.com/search?q=author%3Asarv-tech+is%3Apr+is%3Amerged&amp;type=pullrequests">Merged Pull Requests</a>
+  <a href="https://www.linkedin.com/in/sarvesh-pingale-8b9090299">LinkedIn</a> · <a href="mailto:pingalesarvesh5@gmail.com">Email</a> · <a href="https://github.com/search?q=author%3Asarv-tech+is%3Apr+is%3Amerged&amp;type=pullrequests">Merged Pull Requests</a>
 </p>
 
 ---
@@ -216,6 +216,23 @@ OOP · SDLC · Problem-solving · Communication
 
 ---
 
+## GitHub Stats
+
 <p align="center">
-  The best way to reach me is <a href="https://www.linkedin.com/in/sarvesh-pingale-8b9090299">LinkedIn</a>.
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/3-stats.svg">
+    <img src="profile-summary-card-output/github/3-stats.svg" alt="GitHub stats for sarv-tech: stars, commits, pull requests, issues and contributions" height="170">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/2-most-commit-language.svg">
+    <img src="profile-summary-card-output/github/2-most-commit-language.svg" alt="Most used languages by commits for sarv-tech" height="170">
+  </picture>
+</p>
+
+<p align="center"><sub>Cards are regenerated daily by a GitHub Action in this repo. Language share is by commits, not by skill level.</sub></p>
+
+---
+
+<p align="center">
+  Contact: <a href="mailto:pingalesarvesh5@gmail.com">pingalesarvesh5@gmail.com</a> · <a href="https://www.linkedin.com/in/sarvesh-pingale-8b9090299">LinkedIn</a>
 </p>
