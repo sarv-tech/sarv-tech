@@ -46,6 +46,17 @@ Ask questions about your own PDF notes and get answers grounded only in what the
 <img src="https://github.com/user-attachments/assets/8ef765cc-85d9-4e0d-a071-6464f03b6f36" alt="NoteBot AI interface" width="100%">
 </details>
 
+#### [VentureGenesis — AI Startup Intelligence Platform](https://github.com/sarv-tech/VG)
+*Team project · forked from [Yadnyesh8/VentureGenesis](https://github.com/Yadnyesh8/VentureGenesis)*
+
+A virtual board of directors for founders: enter startup metrics once and get risk and funding scores, a revenue forecast, and a structured debate between AI board members.
+
+- **ML layer:** trained failure-risk and funding-readiness models with SHAP explanations, plus Prophet time-series revenue forecasting and what-if scenario simulation.
+- **Multi-agent board:** a LangGraph state graph runs specialist LLM agents (investor, strategist, risk analyst and others) through a debate and produces a board decision and executive report.
+- **Production structure:** FastAPI backend with SQLAlchemy, a pytest suite, Next.js 14 + TypeScript frontend with Clerk authentication, Docker, and Render / Vercel deployment config.
+
+`Python` `FastAPI` `LangGraph` `scikit-learn` `SHAP` `Prophet` `Next.js` `TypeScript` · [Live demo](https://venture-genesis.vercel.app)
+
 #### [MindfulMate — Conversational Wellness Companion](https://github.com/sarv-tech/MindfulMate)
 A supportive chat app for everyday stress, with typed or spoken input and explicit safety rules for crisis situations.
 
