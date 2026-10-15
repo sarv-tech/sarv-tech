@@ -99,6 +99,13 @@ Merged contributions to community projects, mostly during **GirlScript Summer of
 
 - **NASA Space Apps Challenge 2025** · Team DataDrift — Frontend Engineer on [Messier Deep Sky Navigator](https://github.com/sarv-tech/Messier-Catalog-Navigator), an interactive deep-zoom sky map of all 110 Messier objects ([live](https://messier-catalog-nasa-space-challeng.vercel.app/)).
 
+### Leadership
+
+**Aspire Leaders Program** · Aspire Institute · 2025
+- Selected among 5,463 finalists out of 26,441 applicants in Cohort 2 of the 2025 program.
+- Completed leadership development modules covering personal and professional development, strengths-based leadership, problem-solving, trust, AI, and community impact.
+- Engaged with leadership and career-development resources co-created with Harvard Business School and coursework designed and delivered by Harvard faculty.
+
 ---
 
 ### Tech Stack
