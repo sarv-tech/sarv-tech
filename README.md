@@ -19,7 +19,7 @@ I'm a B.Tech Computer Engineering student (graduating 2027) who likes taking an 
 
 Most of my recent work sits where LLMs meet ordinary software engineering: grounding answers in a user's own documents, streaming responses without breaking the UI, handling rate limits and long conversations, and keeping secrets and model logic on the server. I also contribute to open-source projects, mostly security fixes, tests and frontend improvements.
 
-I worked as an **AI Engineer Intern at ReasonateAI Pvt. Ltd**, where I also led the development team. Previously, I completed a **Generative AI Internship at SURE ProEd**, where I developed an AI-powered code reviewer using Google Gemini 1.5 Flash and built a personal AI chatbot deployed on Streamlit.
+I worked as a **Lead AI Engineer Intern at ReasonateAI Pvt. Ltd**, leading the development team building a vibe-coding platform. Previously, I completed a **Generative AI Internship at SURE ProEd**, where I developed an AI-powered code reviewer using Google Gemini 1.5 Flash and built a personal AI chatbot deployed on Streamlit.
 
 My team was recognized as a **Local Winner and Global Nominee in the NASA Space Apps Challenge**. I was also selected for the **Aspire Leaders Program** at Aspire Institute, co-founded by Harvard Business School faculty, with resources developed in collaboration with Harvard Business School.
 
@@ -108,9 +108,19 @@ Merged contributions to community projects, mostly during **GirlScript Summer of
 
 ### Experience
 
-- **AI Engineer Intern, Development Team Lead** · ReasonateAI Pvt. Ltd — worked on an AI development platform.
-- **Generative AI Intern** · SURE ProEd — built the [AI-Powered Code Reviewer](https://github.com/sarv-tech/AI-powered-Code-Reviewer) with Google Gemini and a personal AI chatbot deployed on Streamlit.
-- **Intern** · SKILLFI
+**Lead AI Engineer Intern** · ReasonateAI Pvt. Ltd · Remote · Jun 2026 – Sep 2026
+- Led the development team building ReasonateAI, a vibe-coding platform, focusing on AI infrastructure, LLM deployment and model integration on remote NVIDIA GPUs.
+- Engineered systems that translate high-level requirements into functional frontend components, improving automation across the software development workflow.
+- Contributed to AI product development for a platform serving 25K+ users, with a focus on scalable infrastructure, AI integration and usable interfaces.
+- Benchmarked models and fine-tuned the open-source Qwen2.5-Coder-3B with 2-bit quantization; used RAG, LangChain and LangGraph in the backend.
+
+**Generative AI Intern** · SURE ProEd · Remote · Dec 2024 – Jun 2025
+- Gained hands-on experience in machine learning, deep learning, NLP, GANs, linear algebra and statistics.
+- Used Python, the OpenAI API and Postman to develop and test LLM-based integrations and AI applications.
+- Created an AI-powered code reviewer with Gemini 1.5 Flash using prompt engineering, RAG, embeddings, tokenization and APIs.
+- Analyzed Kaggle diabetes datasets to train predictive machine learning models.
+
+**Intern** · SKILLFI
 
 ### Hackathons
 
