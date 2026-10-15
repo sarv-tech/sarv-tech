@@ -57,6 +57,12 @@ A virtual board of directors for founders: enter startup metrics once and get ri
 
 `Python` `FastAPI` `LangGraph` `scikit-learn` `SHAP` `Prophet` `Next.js` `TypeScript` · [Live demo](https://venture-genesis.vercel.app)
 
+<details>
+<summary>Screenshot</summary>
+<br>
+<img src="assets/venturegenesis.jpg" alt="VentureGenesis landing page" width="100%">
+</details>
+
 #### [MindfulMate — Conversational Wellness Companion](https://github.com/sarv-tech/MindfulMate)
 A supportive chat app for everyday stress, with typed or spoken input and explicit safety rules for crisis situations.
 
