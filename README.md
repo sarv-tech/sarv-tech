@@ -47,7 +47,7 @@ Ask questions about your own PDF notes and get answers grounded only in what the
 </details>
 
 #### [VentureGenesis — AI Startup Intelligence Platform](https://github.com/sarv-tech/VG)
-*Team project · forked from [Yadnyesh8/VentureGenesis](https://github.com/Yadnyesh8/VentureGenesis)*
+*Team project*
 
 A virtual board of directors for founders: enter startup metrics once and get risk and funding scores, a revenue forecast, and a structured debate between AI board members.
 
