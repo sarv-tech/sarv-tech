@@ -1,17 +1,16 @@
 <h1 align="center">Sarvesh Pingale</h1>
 
 <p align="center">
-  <b>Computer Engineering student (B.Tech, 2027) · AI &amp; Full-Stack Developer</b><br>
-  I build LLM applications, RAG pipelines and the web backends that serve them.
+  <strong>Computer Engineering Student · AI &amp; Full-Stack Developer</strong><br>
+  Building practical AI applications, reliable backend systems, and full-stack products.
 </p>
 
 <p align="center">
-  Lead AI Engineer Intern @ ReasonateAI · NASA Space Apps 2025 Local Winner &amp; Global Nominee · 7 merged open-source PRs
+  Lead AI Engineer Intern @ ReasonateAI · NASA Space Apps Challenge 2025 Local Winner &amp; Global Nominee · 7 Merged Open-Source PRs
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sarvesh-pingale-8b9090299"><img src="https://img.shields.io/badge/LinkedIn-Sarvesh%20Pingale-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn profile of Sarvesh Pingale"></a>
-  <a href="https://github.com/search?q=author%3Asarv-tech+is%3Apr+is%3Amerged&type=pullrequests"><img src="https://img.shields.io/badge/Open%20Source-Merged%20PRs-238636?style=flat-square&logo=github&logoColor=white" alt="Merged pull requests by sarv-tech"></a>
+  <a href="https://www.linkedin.com/in/sarvesh-pingale-8b9090299">LinkedIn</a> · <a href="https://github.com/search?q=author%3Asarv-tech+is%3Apr+is%3Amerged&amp;type=pullrequests">Merged Pull Requests</a>
 </p>
 
 ---
