@@ -114,13 +114,17 @@ Merged contributions to community projects, mostly during **GirlScript Summer of
 - Contributed to AI product development for a platform serving 25K+ users, with a focus on scalable infrastructure, AI integration and usable interfaces.
 - Benchmarked models and fine-tuned the open-source Qwen2.5-Coder-3B with 2-bit quantization; used RAG, LangChain and LangGraph in the backend.
 
+**AI Trainee Intern** · SKILLFI · Remote · Jun 2026 – Jul 2026
+- Assisted in the research and development of AI models and algorithms, enhancing project outcomes.
+- Contributed to data collection, preprocessing and feature engineering for various AI projects.
+- Collaborated with the AI team to solve complex problems and optimize model performance.
+- Documented research findings and participated in team discussions to foster innovation.
+
 **Generative AI Intern** · SURE ProEd · Remote · Dec 2024 – Jun 2025
 - Gained hands-on experience in machine learning, deep learning, NLP, GANs, linear algebra and statistics.
 - Used Python, the OpenAI API and Postman to develop and test LLM-based integrations and AI applications.
 - Created an AI-powered code reviewer with Gemini 1.5 Flash using prompt engineering, RAG, embeddings, tokenization and APIs.
 - Analyzed Kaggle diabetes datasets to train predictive machine learning models.
-
-**Intern** · SKILLFI
 
 ### Hackathons
 
