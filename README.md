@@ -19,6 +19,12 @@ I'm a B.Tech Computer Engineering student (graduating 2027) who likes taking an 
 
 Most of my recent work sits where LLMs meet ordinary software engineering: grounding answers in a user's own documents, streaming responses without breaking the UI, handling rate limits and long conversations, and keeping secrets and model logic on the server. I also contribute to open-source projects, mostly security fixes, tests and frontend improvements.
 
+I worked as an **AI Engineer Intern at ReasonateAI Pvt. Ltd**, where I also led the development team. Previously, I completed a **Generative AI Internship at SURE ProEd**, where I developed an AI-powered code reviewer using Google Gemini 1.5 Flash and built a personal AI chatbot deployed on Streamlit.
+
+My team was recognized as a **Local Winner and Global Nominee in the NASA Space Apps Challenge**. I was also selected for the **Aspire Leaders Program** at Aspire Institute, co-founded by Harvard Business School faculty, with resources developed in collaboration with Harvard Business School.
+
+Beyond technology, I enjoy hackathons, networking events and continuous learning, and I'm making the most of my college journey.
+
 I'm looking for **software engineering, AI engineering and full-stack internships**.
 
 ---
@@ -91,13 +97,13 @@ Merged contributions to community projects, mostly during **GirlScript Summer of
 
 ### Experience
 
-- **Lead AI Engineer Intern** · ReasonateAI — working on an AI development platform.
-- **Intern** · SURE ProEd
+- **AI Engineer Intern, Development Team Lead** · ReasonateAI Pvt. Ltd — worked on an AI development platform.
+- **Generative AI Intern** · SURE ProEd — built the [AI-Powered Code Reviewer](https://github.com/sarv-tech/AI-powered-Code-Reviewer) with Google Gemini and a personal AI chatbot deployed on Streamlit.
 - **Intern** · SKILLFI
 
 ### Hackathons
 
-- **NASA Space Apps Challenge 2025** · Team DataDrift — Frontend Engineer on [Messier Deep Sky Navigator](https://github.com/sarv-tech/Messier-Catalog-Navigator), an interactive deep-zoom sky map of all 110 Messier objects ([live](https://messier-catalog-nasa-space-challeng.vercel.app/)).
+- **NASA Space Apps Challenge 2025** · Team DataDrift · **Local Winner, Global Nominee** — Frontend Engineer on [Messier Deep Sky Navigator](https://github.com/sarv-tech/Messier-Catalog-Navigator), an interactive deep-zoom sky map of all 110 Messier objects ([live](https://messier-catalog-nasa-space-challeng.vercel.app/)).
 
 ### Leadership
 
