@@ -217,10 +217,14 @@ Merged contributions to community projects, mostly during **GirlScript Summer of
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
 <img src="https://img.shields.io/badge/Truffle-5E464D?style=flat-square" alt="Truffle">
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
+<img src="https://img.shields.io/badge/MS%20PowerPoint-B7472A?style=flat-square" alt="Microsoft PowerPoint">
+<img src="https://img.shields.io/badge/MS%20Excel-217346?style=flat-square" alt="Microsoft Excel">
 
-**Engineering Practices**<br>
+**Practices &amp; Skills**<br>
 <img src="https://img.shields.io/badge/OOP-555555?style=flat-square" alt="Object-Oriented Programming">
 <img src="https://img.shields.io/badge/SDLC-555555?style=flat-square" alt="Software Development Life Cycle">
+<img src="https://img.shields.io/badge/Problem--Solving-555555?style=flat-square" alt="Problem-Solving">
+<img src="https://img.shields.io/badge/Communication-555555?style=flat-square" alt="Communication">
 
 ---
 
