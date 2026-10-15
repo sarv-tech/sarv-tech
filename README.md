@@ -143,6 +143,36 @@ Merged contributions to community projects, mostly during **GirlScript Summer of
 - Completed leadership development modules covering personal and professional development, strengths-based leadership, problem-solving, trust, AI, and community impact.
 - Engaged with leadership and career-development resources co-created with Harvard Business School and coursework designed and delivered by Harvard faculty.
 
+### Licenses &amp; Certifications
+
+- [**Agentic AI Certified Foundations Associate**](https://catalog-education.oracle.com/pls/certview/sharebadge?id=6F9DDA5432C5856EA8E7DE843FF2E6E63AC1FF779F7C8A687D0F93D46BD8B380) · Oracle · Jun 2026
+- [**OCI 2025 Certified AI Foundations Associate**](https://catalog-education.oracle.com/pls/certview/sharebadge?id=6728816ACBACC83DC134183771B8D6F3666AB4FCD3960B7E752C2419C8782B98) · Oracle · Nov 2025
+- [**Copado AI Certified**](https://success.copado.com/s/validate-credentials?StudentId=a3zP7000003YGbh) · Copado · Jun 2026
+- [**AWS Academy Graduate — Cloud Foundations**](https://www.credly.com/badges/4c344e28-5327-4397-b6da-38794d5535d6) · Amazon Web Services · Apr 2026
+- [**Gemini Certified University Student**](https://edu.google.accredible.com/29aba5a6-7286-41ee-8fa5-adf5248b89f7) · Google · Oct 2025
+- [**Aviatrix Certified Engineer — Multicloud Network Associate**](https://www.credly.com/badges/954c6fbd-74a4-470d-bda3-cd79641c7af9) · Aviatrix · Jan 2025
+- [**CS50's Introduction to Programming with Python**](https://certificates.cs50.io/b3187ff2-9391-43c1-bf70-6893ed7a39da.png?size=A4) · Harvard CS50 · Jul 2024
+
+<details>
+<summary>13 more certifications</summary>
+<br>
+
+- [**Introduction to AI**](https://www.coursera.org/account/accomplishments/records/BGOI5MBQ6ZKS) · Google · Jul 2026
+- [**AI Skills Fest 2026**](https://www.credly.com/badges/31d63945-bbef-447d-91b4-14f2871f3fa9) · Microsoft · Jun 2026
+- **AI-Integrated Leadership Program** · Aspire Institute · Dec 2025
+- [**Galactic Problem Solver — NASA International Space Apps Challenge 2025**](https://drive.google.com/file/d/1_EnNNU8sbdIicuXK0IMnaxXAbrCOFSQY/view?usp=drivesdk) · NASA · Oct 2025
+- [**Accenture UK — Introduction to Technology Apprenticeship Job Simulation**](https://www.theforage.com/completion-certificates/ovyvuqqNRQKBjNxbj/EzKFRQ2oEA87PPjsL_ovyvuqqNRQKBjNxbj_5m8SNQNbxdTZmbe36_1759315635062_completion_certificate.pdf) · Forage · Oct 2025
+- [**Datacom — Software Development Job Simulation**](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/gCW7Xki5Y3vNpBmnn/L3NcyCoAjLno9d3T9_gCW7Xki5Y3vNpBmnn_5m8SNQNbxdTZmbe36_1756935168007_completion_certificate.pdf) · Forage · Sep 2025
+- [**Deloitte — Technology Job Simulation**](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/udmxiyHeqYQLkTPvf_9PBTqmSxAf6zZTseP_5m8SNQNbxdTZmbe36_1756908378497_completion_certificate.pdf) · Forage · Sep 2025
+- [**Aspire Leaders Program**](https://drive.google.com/file/d/1IiefyOVGvtLhtwpR0Thl_PmIekknhft4/view?usp=drivesdk) · Aspire Institute · May 2025
+- [**Machine Learning Fundamentals Micro-Credential**](https://www.credly.com/earner/earned/badge/a4298bdb-0871-478f-995c-44b0d64e2050) · Alteryx · Dec 2024
+- [**Generative AI**](https://skillshop.exceedlms.com/student/award/32bW83zS18m6f9UAtdivGQb8) · Google · Dec 2024
+- [**Artificial Intelligence**](https://www.futurelearn.com/certificates/3g43wm8) · FutureLearn · Oct 2024
+- [**Introduction to HTML, CSS & JavaScript**](https://coursera.org/share/d585b32f387d3532e07a2b2859d43451) · Coursera · Oct 2024
+- [**Google AI for Anyone**](https://courses.edx.org/certificates/07cbc78f18004fbd906671ec755a9277) · edX · Jul 2024
+
+</details>
+
 ---
 
 ### Tech Stack
